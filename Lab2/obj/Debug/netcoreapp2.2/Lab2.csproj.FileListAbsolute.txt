@@ -1,0 +1,12 @@
+/Users/ernestbell/Desktop/Practice/Lab2/bin/Debug/netcoreapp2.2/Lab2.deps.json
+/Users/ernestbell/Desktop/Practice/Lab2/bin/Debug/netcoreapp2.2/Lab2.runtimeconfig.json
+/Users/ernestbell/Desktop/Practice/Lab2/bin/Debug/netcoreapp2.2/Lab2.runtimeconfig.dev.json
+/Users/ernestbell/Desktop/Practice/Lab2/bin/Debug/netcoreapp2.2/Lab2.dll
+/Users/ernestbell/Desktop/Practice/Lab2/bin/Debug/netcoreapp2.2/Lab2.pdb
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.csprojAssemblyReference.cache
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.AssemblyInfoInputs.cache
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.AssemblyInfo.cs
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.csproj.CoreCompileInputs.cache
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.dll
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.pdb
+/Users/ernestbell/Desktop/Practice/Lab2/obj/Debug/netcoreapp2.2/Lab2.genruntimeconfig.cache
